@@ -2,7 +2,7 @@
 
 ## Architecture
 
-![Architecture Diagram](docs/architecture.svg)
+See screenshots in [docs/screenshots/](docs/screenshots/) for the full architecture layout.
 
 Multi-AZ deployment across us-east-1a and us-east-1b with layered security.
 
