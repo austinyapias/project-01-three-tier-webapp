@@ -23,7 +23,7 @@ I terminated a running instance to simulate failure. Auto Scaling detected it an
 
 | Control | Implementation |
 |---------|---------------|
-| No public DB access | RDS in private subnet, publicly accessible = No |
+| No public DB access | RDS in private subnet, not publicly accessible |
 | Least-privilege networking | Each tier only accepts traffic from tier above |
 | No SSH | Port 22 closed, SSM Session Manager only |
 | Security group references | Dynamic rules, no hardcoded IPs |
