@@ -52,7 +52,7 @@ See [docs/screenshots/](docs/screenshots/) for:
 2. Security group references > CIDR blocks — dynamic and resilient
 3. Building manually before automating teaches you what Terraform is actually doing
 4. RDS takes 10+ minutes to provision — start it first, build other components while waiting
-5. Always check which VPC the console defaults to — it burned me multiple times
+5. Always check which VPC the console defaults to
 
 ## Resume Bullet
 
